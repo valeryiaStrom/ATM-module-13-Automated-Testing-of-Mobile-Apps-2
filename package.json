@@ -1,0 +1,29 @@
+{
+  "name": "atm-module-13-automated-testing-of-mobile-apps-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "wdio"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valeryiaStrom/ATM-module-13-Automated-Testing-of-Mobile-Apps-2.git"
+  },
+  "author": "Valeryia Strom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valeryiaStrom/ATM-module-13-Automated-Testing-of-Mobile-Apps-2/issues"
+  },
+  "homepage": "https://github.com/valeryiaStrom/ATM-module-13-Automated-Testing-of-Mobile-Apps-2#readme",
+  "devDependencies": {
+    "@wdio/cli": "^6.1.17",
+    "@wdio/local-runner": "^6.1.17",
+    "@wdio/mocha-framework": "^6.1.17",
+    "@wdio/spec-reporter": "^6.1.14",
+    "@wdio/sync": "^6.1.14"
+  },
+  "dependencies": {
+    "chai": "^4.2.0"
+  }
+}
